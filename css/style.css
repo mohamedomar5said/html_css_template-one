@@ -412,7 +412,7 @@ html {
     border-radius: 5px;
 }
 
-@keyframes pound {
+/* @keyframes pound {
     0% {
         transform: scale(.99);
     }
@@ -420,7 +420,7 @@ html {
     100% {
         transform: scale(1.11);
     }
-}
+} */
 
 .services .services-content .image:hover img {
     filter: drop-shadow(4px 4px 10px var(--secondary-color));
